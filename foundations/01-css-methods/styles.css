@@ -1,0 +1,12 @@
+div:hover {
+    background-color: orange;
+    color:purple;
+    font-size: 42px;
+}
+
+div {
+    text-align: center;
+    background-color: red;
+    color:white;
+    font-size: 24;
+}
